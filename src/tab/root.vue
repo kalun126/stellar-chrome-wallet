@@ -1,0 +1,24 @@
+/**
+ * new launch page
+ */
+
+<template>
+  <div>
+    new tab
+  </div>
+</template>
+<script>
+  export default {
+    data: () => ({
+    }),
+    computed: { },
+    created () { },
+    mounted () { },
+    methods: { }
+  }
+</script>
+<style lang="scss">
+  div {
+    color: blue
+  }
+</style>
